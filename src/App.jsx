@@ -1,4 +1,4 @@
-
+import './index.css';
 
 const App = () => (
     <div className="bg-primary w-full overflow-hidden">
