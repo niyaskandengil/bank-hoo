@@ -158,40 +158,36 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/",
-  },
-  {
-    id: "social-media-2",
-    icon: facebook,
-    link: "https://www.facebook.com/",
+    link: "https://www.instagram.com/atomic.in",
   },
   {
     id: "social-media-3",
     icon: twitter,
-    link: "https://www.twitter.com/",
+    link: "https://www.twitter.com/kandengilniyas",
   },
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/",
+    link: "https://www.linkedin.com/in/niyas-kandengil-856a66171/",
   },
 ];
 
 export const clients = [
   {
+    id: "client-4",
+    logo: dropbox,
+  },{
     id: "client-1",
     logo: airbnb,
-  },
-  {
-    id: "client-2",
-    logo: binance,
   },
   {
     id: "client-3",
     logo: coinbase,
   },
   {
-    id: "client-4",
-    logo: dropbox,
+    id: "client-2",
+    logo: binance,
   },
+  
+  
 ];
